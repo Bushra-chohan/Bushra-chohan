@@ -4,6 +4,9 @@ Third-year Computing Science student at the University of Alberta
 (Statistics minor). I build data pipelines and backend APIs, and I'm
 looking for **Winter 2027 internships** in data engineering / backend.
 
+📍 Edmonton, Alberta
+🏆 Henry Kreisel Memorial, International Admission and Regional Excellence scholarships
+
 ## Recent experience
 **Software Engineering Intern, Prima Consulting (Jun–Aug 2026)**
 - Built Python pipelines (pandas, NumPy, Numba) to validate 1M+ row
